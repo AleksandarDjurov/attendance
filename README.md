@@ -10,6 +10,7 @@ If you have any question about Smart Timesheet please feel free to contact with 
 ## System Requirements
 
 PHP >= 7.1.3
+Laravel 5.7
 OpenSSL PHP Extension
 PDO PHP Extension
 Mbstring PHP Extension
